@@ -1,0 +1,37 @@
+.profilePic{max-width: 100%;}
+.instagramIcon {color: pink;}
+.youtubeIcon {color: red;}
+.spotifyIcon {color: green;}
+
+.aboutBackground {
+	background-image: url("../img/paw print.jpeg"); }
+
+	.card {margin-top: 10px;}
+
+	.card-block {background-color: #8cf442}
+
+	h2 {font-family: 'Lobster Two', cursive;}
+
+	p {font-family: 'Philosopher', sans-serif;}
+
+.customNav{ background-color: #8cf442}
+.secondPic {max-width: 100%}
+
+
+
+.customColorText {color: black;}
+
+.contactUs {color: black;}
+
+.stretchRow {height: 100vh;
+}
+
+.middleColumn{margin: auto;
+}
+h1{font-family: 'Lobster Two', cursive;}
+
+.googleMap {max-width: 100%}
+
+.indexBackground {
+	background-image: url("../img/lab.jpeg");
+}
