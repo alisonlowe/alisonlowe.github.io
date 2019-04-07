@@ -35,3 +35,8 @@ h1{font-family: 'Lobster Two', cursive;}
 .indexBackground {
 	background-image: url("../img/labpuppy.png"); background-size: cover;
 }
+h3 {font-family: 'Lobster Two', cursive;}
+
+h5 {font-family: Philosopher;}
+
+.contactPic {max-width: 100%}
