@@ -33,5 +33,5 @@ h1{font-family: 'Lobster Two', cursive;}
 .googleMap {max-width: 100%}
 
 .indexBackground {
-	background-image: url("../img/lab.jpeg");
+	background-image: url("../img/labpuppy.png"); background-size: cover;
 }
